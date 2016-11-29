@@ -1,0 +1,1 @@
+# drupal_resources_aggregator
